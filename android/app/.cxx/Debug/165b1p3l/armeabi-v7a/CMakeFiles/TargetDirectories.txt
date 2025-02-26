@@ -1,0 +1,2 @@
+C:/Users/Usama/AndroidStudioProjects/camera_application/android/app/.cxx/Debug/165b1p3l/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Usama/AndroidStudioProjects/camera_application/android/app/.cxx/Debug/165b1p3l/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,6 +1,7 @@
 import 'package:camera_application/Swipable.dart';
 import 'package:camera_application/camera.dart';
 import 'package:camera_application/music_application.dart';
+import 'package:camera_application/Torch_Application.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: ImageSwipeScreen(),
+      home: SwipScreen(),
     );
   }
 }

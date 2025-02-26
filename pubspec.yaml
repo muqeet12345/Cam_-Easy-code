@@ -39,6 +39,7 @@ dependencies:
   image_picker: ^1.1.2
   video_player: ^2.9.2
   just_audio: ^0.9.46
+  torch_light: ^1.1.0
 
 dev_dependencies:
   flutter_test:
